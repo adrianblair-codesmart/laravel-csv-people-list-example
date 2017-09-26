@@ -1,0 +1,5 @@
+export const LOAD_PEOPLE_OK = 'LOAD_PEOPLE_OK';
+export const LOAD_PEOPLE_FAIL = 'LOAD_PEOPLE_FAIL';
+export const LOAD_PERSON_OK = 'LOAD_PERSON_OK';
+export const LOAD_PERSON_FAIL = 'LOAD_PERSON_FAIL';
+export const SET_SEARCH_TERM = 'SET_SEARCH_TERM';
